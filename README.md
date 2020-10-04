@@ -1,28 +1,24 @@
+
 # Kickstarting with Excel
 
 ## Overview of Project
 Analysis of Kickstarter campaign data 
 
 ### Purpose
-The purpose of this project is to produce insight into campaign outcomes through utilzing statistical formulas and visualtion methods in Excel. 
-With the primary focus being onsubset of data (theater category), 
-deliverables will be based on the relationship of campaigns and thier launch dates as well as their funding goals.
+The purpose of this project is to produce insight into campaign outcomes through utilizing statistical formulas and visitation methods in Excel. 
+With the primary focus being on a subset of data centered around Theater Campaigns, 
+deliverables will be based on the relationship between the campaigns and their launch dates as well as their funding goals.
 
 
 ## Analysis Focus Questions
-
-How do theater campaigns fair in relation to thier:
-1. lauch dates
-2. funding goals
-
+How do theater campaigns fair in relation to their launch dates and funding goals?
 
 ### Analysis of Outcomes Based on Goals
-
-Through utlizing Pivot tables, I am able to aggregate, group, and filter data. 
+Through utilizing Pivot tables, I am able to aggregate, group, and filter data. 
 
 ![Outcomes Pivot](https://github.com/DonnieData/kickstarter-analysis/blob/master/Resources/Launch%20Data%20Pivot.png)
 
-Based on the calculated columns In the pivot table I have created the below visualization to further help in the analysis and find insight int the Outcomes vs Launch Date relationship. 
+Based on the calculated columns in the pivot table I have created the below visualization to further help in the analysis and find insight int the Outcomes vs Launch Date relationship. 
 
 ![Outcomes Chart](https://github.com/DonnieData/kickstarter-analysis/blob/master/Resources/Outcomes_vs_Goals.png)
 
@@ -37,7 +33,7 @@ Findings:
 In order to have a more focused and overhead view of campaign goals
 I have created a table with formula that allows me to collect statistics on campaign goals and group/ filter based on various criteria.  
 
-![Lauch Date Chart](https://github.com/DonnieData/kickstarter-analysis/blob/master/Resources/Theater_Outcomes_vs_Launch.png)
+![Launch Date Chart](https://github.com/DonnieData/kickstarter-analysis/blob/master/Resources/Theater_Outcomes_vs_Launch.png)
 
 Findings:
 - The largest portion of successful campaigns have launch dates in May 
@@ -59,9 +55,8 @@ $15,000 - $19,999
 
 ## Additional Information 
 
-#### Limiations 
+#### Limitations 
 I find the lack of recent data to be a limitation of this data set. 
 
 #### Further Analysis
-Additional anaylsis steps that can be taken are creating more in-dpeth pivot tables with sub categroies based on campaign goals within certain time-frmaes.
-
+Additional anaylsis steps that can be taken are creating more in-depth pivot tables with sub categories based on campaign goals within certain time frames.
