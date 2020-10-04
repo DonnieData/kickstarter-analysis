@@ -20,11 +20,11 @@ How do theater campaigns fair in relation to thier:
 
 Through utlizing Pivot tables, I am able to aggregate, group, and filter data. 
 
-![Outcomes Goal Pivot](https://github.com/DonnieData/kickstarter-analysis/blob/master/Resources/Outcomes_vs_Goals.png)
+![Outcomes Pivot]()
 
 Based on the calculated columns In the pivot table I have created the below visualization to further help in the analysis and find insight int the Outcomes vs Launch Date relationship. 
 
-[image!]
+![Outcomes Chart](https://github.com/DonnieData/kickstarter-analysis/blob/master/Resources/Outcomes_vs_Goals.png)
 
 Findings: 
 -	Campaigns with goals less than $1000 had a high success rate.
@@ -39,7 +39,7 @@ I have created a table with formula that allows me to collect statistics on camp
 
 blurb about dates an focussing on lauch month regardless of year 
 
-[image!] 
+![Lauch Date Chart](https://github.com/DonnieData/kickstarter-analysis/blob/master/Resources/Theater_Outcomes_vs_Launch.png)
 
 Findings:
 - The largest portion of successful campaigns have launch dates in May 
