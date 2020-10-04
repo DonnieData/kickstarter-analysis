@@ -20,7 +20,7 @@ How do theater campaigns fair in relation to thier:
 
 Through utlizing Pivot tables, I am able to aggregate, group, and filter data. 
 
-[image!]
+![Outcomes Goal Pivot](https://github.com/DonnieData/kickstarter-analysis/blob/master/Resources/Outcomes_vs_Goals.png)
 
 Based on the calculated columns In the pivot table I have created the below visualization to further help in the analysis and find insight int the Outcomes vs Launch Date relationship. 
 
